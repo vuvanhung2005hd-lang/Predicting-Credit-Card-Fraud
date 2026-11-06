@@ -142,7 +142,7 @@ Credit-Card-Fraud-Detection/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/vuvanhung2005hd-lang/Predicting-Credit-Card-Fraud.git>
 cd Credit-Card-Fraud-Detection
 ```
 
